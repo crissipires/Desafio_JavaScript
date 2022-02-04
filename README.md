@@ -21,9 +21,9 @@
 
 > true, pois os dados contem valores e tipos iguais.
 
-> { nome: 'Maria' }
+> { nome: 'Maria' }, pois é alterado o valor da propiedade nome no abjeto a, na linha 12.
 
-> { nome: 'Pedro' }
+> { nome: 'Pedro' }, 
 
-> false
+> false 
 
