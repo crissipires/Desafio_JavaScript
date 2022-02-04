@@ -16,5 +16,14 @@
 
 > Qualquer valor que que for inserido na função "Minha função" será substituida pelo valor 9.
 
-### 5- 
+### 5- Por ordem:
+> false, pois os dados das variaveis são de tipos diferentes.
+
+> true, pois os dados contem valores e tipos iguais.
+
+> { nome: 'Maria' }
+
+> { nome: 'Pedro' }
+
+> false
 
