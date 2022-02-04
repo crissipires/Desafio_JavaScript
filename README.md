@@ -14,5 +14,7 @@
 
 ### 4- novoNumero = 9 | a = 3
 
-> 
+> Qualquer valor que que for inserido na função "Minha função" será substituida pelo valor 9.
+
+### 5- 
 
