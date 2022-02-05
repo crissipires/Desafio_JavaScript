@@ -27,4 +27,15 @@
 
 > false, pois os valores das chave são diferentes.
 
-### 6-  
+### 6-  Erro de compilação.
+> Ocorrerá um erro de compilação, pois não é declarada a palavra reservada nas variáveis (let/var/const).
+
+### 7 - link
+
+### 8 - link 
+
+### 9 - link
+
+### 10 - link
+ 
+### 11 - link
