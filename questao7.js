@@ -5,11 +5,11 @@ const calcularImc = function(peso,altura){
 const classificacaoImc = function(peso,altura){
     let imc = calcularImc(peso,altura);
 
-    if(imc < 18){
+    if(imc < 18) {
         return "Abaixo do peso";
-    } else if(imc < 25){
+    }else if(imc < 25) {
         return "Peso Normal"
-    } else{ 
+    }else { 
         return "Acima do peso"
     }
 }
