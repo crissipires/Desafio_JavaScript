@@ -17,13 +17,14 @@
 > Qualquer valor que que for inserido na função "Minha função" será substituida pelo valor 9.
 
 ### 5- Por ordem:
-> false, pois os dados das variaveis são de tipos diferentes.
+> false, pois foram criados em espaços diferentes da memoria.
 
-> true, pois os dados contem valores e tipos iguais.
+> true, pois os dados apontam para a mesma referencia de memoria.
 
-> { nome: 'Maria' }, pois é alterado o valor da propiedade nome no abjeto a, na linha 12.
+> { nome: 'Maria' }, o valor muda, pois é atribuido um novo valor da chave nome no abjeto a, na linha 12.
 
-> { nome: 'Pedro' }, 
+> { nome: 'Pedro' }, o valor não muda, por o codigo em javascript ser executado de cima pra baixo, quando o valor é alterado na linha 12, o objeto b não vai sofrer alteração, pois aponta pra referencia de memoria inicial.
 
-> false 
+> false, pois os valores das chave são diferentes.
 
+### 6-  
