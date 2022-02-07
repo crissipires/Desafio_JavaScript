@@ -3,7 +3,7 @@
 ## Respostas:
 
 ### 1- 35
-> seguindo a ordem de procedência dos operadores aritmeticos, operadores de maior procedencia, como o de mutiplicação (*) e divisão(/), são calculados antes do de soma (+) e subtração (-).
+> Seguindo a ordem de procedência dos operadores aritmeticos, operadores de maior procedencia, como o de mutiplicação (*) e divisão(/), são calculados antes do de soma (+) e subtração (-).
 
 ### 2- 
 > "==" iguala o valor, "===" iguala o tipo do dado e o valor. A igualdade dupla pode ser usado pra comparar um valor dentro de uma variavel, sem se preocupar com os tipos dos dados, já a igualdade tripla irá comparar os valores e verificar se os mesmos pertecem ao mesmo tipo de dado.
@@ -30,12 +30,12 @@
 ### 6-  Erro de compilação.
 > Ocorrerá um erro de compilação, pois não é declarada a palavra reservada nas variáveis (let/var/const).
 
-### 7 - link
+### 7 - [Resolução](https://github.com/crissipires/Desafio_JavaScript/blob/main/questao7.js)
 
-### 8 - link 
+### 8 - [Resolução](https://github.com/crissipires/Desafio_JavaScript/blob/main/questao8.js)
 
-### 9 - link
+### 9 - [Resoluçã](https://github.com/crissipires/Desafio_JavaScript/blob/main/questao9.js)
 
-### 10 - link
+### 10 - [Resoluçã](https://github.com/crissipires/Desafio_JavaScript/blob/main/questao10.js)
  
-### 11 - link
+### 11 - [Resoluçã](https://github.com/crissipires/Desafio_JavaScript/blob/main/questao11.js)
