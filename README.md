@@ -34,8 +34,8 @@
 
 ### 8 - [Resolução](https://github.com/crissipires/Desafio_JavaScript/blob/main/questao8.js)
 
-### 9 - [Resoluçã](https://github.com/crissipires/Desafio_JavaScript/blob/main/questao9.js)
+### 9 - [Resolução](https://github.com/crissipires/Desafio_JavaScript/blob/main/questao9.js)
 
-### 10 - [Resoluçã](https://github.com/crissipires/Desafio_JavaScript/blob/main/questao10.js)
+### 10 - [Resolução](https://github.com/crissipires/Desafio_JavaScript/blob/main/questao10.js)
  
-### 11 - [Resoluçã](https://github.com/crissipires/Desafio_JavaScript/blob/main/questao11.js)
+### 11 - [Resolução](https://github.com/crissipires/Desafio_JavaScript/blob/main/questao11.js)
